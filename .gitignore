@@ -1,0 +1,28 @@
+# Archivos de configuración
+*.env
+config/
+
+# Archivos de compilación
+build/
+dist/
+out/
+
+# Dependencias
+node_modules/
+bower_components/
+
+# Archivos de registro
+*.log
+logs/
+
+# Archivos temporales
+tmp/
+cache/
+
+# Archivos de base de datos
+*.sqlite
+*.db
+
+# Archivos generados por el sistema
+Thumbs.db
+.DS_Store
